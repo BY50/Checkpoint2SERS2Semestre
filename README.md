@@ -21,3 +21,7 @@ Abra o notebook e clique "executar tudo" no Google Colab.
 ## Resumo dos resultados
 
 O algoritmo criado com Random Forest foi o melhor em ambos os casos.
+
+## Instruções para gerar os CSVs
+
+Executar as 2 primeiras células que estão no notebook e as 4 primeiras células no início de cada tarefa.
