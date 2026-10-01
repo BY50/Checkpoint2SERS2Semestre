@@ -1,5 +1,9 @@
 # Checkpoint2SERS2Semestre
 
+Feito por Bruno Yudi Moritaka Kanashiro
+
+RM: 571776
+
 ## Objetivo
 
 O objetivo desse projeto é a criação e avaliação de modelos de machine learning usando datasets públicos.
